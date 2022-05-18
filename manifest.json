@@ -1,0 +1,15 @@
+{
+    "lang": "ja",
+    "name": "reCAPTCHAカウンター",
+    "short_name": "reCAPTCHA",
+    "start_url": "/reCAPTCHA_counter",
+    "display": "standalone",
+    "theme_color": "#0971ac",
+    "icons": [
+        {
+            "src": "image/favicon.png",
+            "sizes": "64x64",
+            "type": "image/png"
+        }
+    ]
+}
